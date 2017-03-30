@@ -1,0 +1,35 @@
+
+img {
+	max-width: 100%;
+}
+nav {
+background-color: #808080;
+}
+
+ul {
+  display: flex;
+  justify-content: center;
+  justify-content: space-around;
+ }
+li {
+  font-size: 30px;
+  border-style: solid;
+  list-style-type: none;
+ }
+.mywork {
+ font-size: 20px;
+  background-color: white;
+text-align: center;
+}
+
+.gallery {
+	display: flex;
+}
+
+.first-box {
+	width: 50%;
+}
+
+.second-box {
+	width: 50%;
+}
